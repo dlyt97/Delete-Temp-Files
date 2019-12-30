@@ -27,5 +27,3 @@ def dule():
     dc97('c:\\users\\'+pc_name+'\\appdata\\local\\temp\\','.')
 while True:
     dule()
-
-                
